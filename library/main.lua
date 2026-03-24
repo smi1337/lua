@@ -56,7 +56,7 @@ do
 	local dl = {
 		{
 			k = "cursor",
-			u = "https://www.freeiconspng.com/uploads/white-mouse-cursor-arrow-by-qubodup-11.png" -- https://cdn-icons-png.flaticon.com/512/17342/17342034.png
+			u = "https://cdn-icons-png.flaticon.com/512/17342/17342034.png"
 		},
 	}
 	for _, d in dl do
